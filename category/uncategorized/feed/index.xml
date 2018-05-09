@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Villa Belmont</title>
-	<atom:link href="https://www.github.villa-belmont.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.github.villa-belmont.io</link>
+	<atom:link href="http://mladensap.github.io/villa-belmont/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mladensap.github.io/villa-belmont</link>
 	<description>Guest house with panoramic sea view</description>
 	<lastBuildDate>Tue, 08 May 2018 13:04:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,9 +19,9 @@
 	<generator>https://wordpress.org/?v=4.9.5</generator>
 
 <image>
-	<url>https://www.github.villa-belmont.io/wp-content/uploads/2018/05/ms-icon-310x310-150x150.png</url>
+	<url>http://mladensap.github.io/villa-belmont/wp-content/uploads/2018/05/ms-icon-310x310-150x150.png</url>
 	<title>Uncategorized &#8211; Villa Belmont</title>
-	<link>https://www.github.villa-belmont.io</link>
+	<link>http://mladensap.github.io/villa-belmont</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
