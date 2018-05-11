@@ -7,12 +7,12 @@
 	>
 <channel>
 	<title>Comments for Villa Belmont</title>
-	<atom:link href="httpss://mladensap.github.io/villa-belmont/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>httpss://mladensap.github.io/villa-belmont</link>
+	<atom:link href="https://mladensap.github.io/villa-belmont/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mladensap.github.io/villa-belmont</link>
 	<description>Guest house with panoramic sea view</description>
 	<lastBuildDate>Fri, 11 May 2018 13:38:01 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>httpss://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
 </channel>
 </rss>
