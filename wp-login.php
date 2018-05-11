@@ -19,7 +19,7 @@
 	</head>
 	<body class="login login-action-login wp-core-ui  locale-en-us">
 		<div id="login">
-		<h1><a href="httpss://wordpress.org/" title="Powered by WordPress" tabindex="-1">Powered by WordPress</a></h1>
+		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Powered by WordPress</a></h1>
 	
 <form name="loginform" id="loginform" action="https://mladensap.github.io/villa-belmont/wp-login.php" method="post">
 	<p>
