@@ -3,7 +3,7 @@
  *
  * Helps with accessibility for keyboard only users.
  *
- * Learn more: https://git.io/vWdr2
+ * Learn more: httpss://git.io/vWdr2
  */
 ( function() {
 	var isWebkit = navigator.userAgent.toLowerCase().indexOf( 'webkit' ) > -1,

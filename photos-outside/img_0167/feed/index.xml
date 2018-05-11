@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
 	<title>Comments on: IMG_0167</title>
-	<atom:link href="http://mladensap.github.io/villa-belmont/photos-outside/img_0167/feed/" rel="self" type="application/rss+xml" />
-	<link>http://mladensap.github.io/villa-belmont</link>
+	<atom:link href="https://mladensap.github.io/villa-belmont/photos-outside/img_0167/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mladensap.github.io/villa-belmont</link>
 	<description>Guest house with panoramic sea view</description>
 	<lastBuildDate>Wed, 09 May 2018 15:45:35 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>httpss://wordpress.org/?v=4.9.5</generator>
 </channel>
 </rss>
